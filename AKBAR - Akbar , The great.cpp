@@ -1,3 +1,4 @@
+/*solution spoj akbar*/
 #include<iostream>
 #include<map>
 #include<queue>
