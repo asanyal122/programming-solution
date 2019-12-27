@@ -36,7 +36,7 @@ void brutedist(ll l,ll r,ll n)
 	ll i,j;
 	for(i=l;i<r;i++)
 	{
-		for(j=i+1;j<=r;j++)
+		for(j=i+1;j<=r;j++) 
 		{
 			if(min_dist>dist(arr[l],arr[r]))
 			{
